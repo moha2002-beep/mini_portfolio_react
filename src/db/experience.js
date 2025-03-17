@@ -1,20 +1,20 @@
 export default [
   {
     id: 1,
-    companyName: "Microsoft",
-    desc: "Junior Developer",
-    duration: "March 2024 - Present",
+    companyName: "VS Code",
+    desc: "Tool for Eportfolio Development",
+    duration: "React-Tailwind",
   },
   {
     id: 2,
-    companyName: "TCS",
-    desc: "Intern",
-    duration: "Oct 2023 - Jan 2024",
+    companyName: "Cisco Packet Tracer",
+    desc: "Cisco Configuration Tool",
+    duration: "Routers-Switches-Pcs",
   },
   {
     id: 3,
-    companyName: "WebTech.",
-    desc: "Intern",
-    duration: "Jan 2023 - Mar 2023",
+    companyName: "Wireshark",
+    desc: "Tool for Monitoring Networks",
+    duration: "Tracing Packets",
   },
 ];

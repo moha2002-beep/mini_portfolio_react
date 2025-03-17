@@ -13,7 +13,7 @@ const Intro = () => {
         Hi there! I'm
         <Typewriter
           options={{
-            strings: ["Umair Faheem", "The Project Code"],
+            strings: ["Usama ", "The Project Code"],
             autoStart: true,
             loop: true,
           }}
@@ -24,53 +24,50 @@ const Intro = () => {
       {/* about yourself */}
       <div className="desc">
         <p>
-          A dedicated and passionate creator with a love for turning ideas into
-          reality. Whether it's crafting compelling narratives, designing
-          captivating visuals, or solving complex problems, I thrive on the
-          challenges that come with bringing ideas to life.
+        This e-portfolio is a web-based project developed using React.js and Tailwind CSS to document my learning journey and practical implementations in Networks and Operating Systems. The portfolio showcases my weekly progress, hands-on networking configurations in Cisco Packet Tracer, and security-related exercises performed on Linux and Windows operating systems.
         </p>
         <p>
-          Currently immersed in the captivating world of Computer Science{" "}
-          <span>Engineering</span> as a college student. My educational roots
-          trace back to <span>Hamdard Public School</span>, where I laid the
-          foundation for my academic journey.
+        uilt with a focus on user experience and responsiveness, this portfolio is hosted on GitHub Pages/Vercel, ensuring easy access and seamless navigation.{" "}
+          <span>Engineering</span> as a network Engineering. My eportfolio roots
+          trace back to <span>configurations of networks and operating systems basics</span>, where I laid the
+          foundation for my network journey.
         </p>
         <p>
-          Proficient in <span>web development</span>, I've honed my skills in
-          crafting dynamic and user-friendly websites that seamlessly blend form
+          This Assessment perfect in <span>cisco development and OS basics</span>, I've developed my cisco files and OS files in
+          crafting dynamic and user-friendly tools that seamlessly blend form
           and function. Beyond the code, I immerse myself in the realm of{" "}
-          <span>UI designing</span>, ensuring that each digital experience is
+          <span>UI designing</span>, ensuring that each configurations experience is
           not just efficient but aesthetically pleasing.
         </p>
         <p>
-          In addition to my academic pursuits, I've embraced the challenges of{" "}
-          <span>Data Structures and Algorithms</span>, recognizing their
-          fundamental role in building robust and efficient software.
+          In addition to this pursuits, I've embraced the challenges of{" "}
+          <span>security and Algorithms</span>, recognizing their
+          fundamental role in building robust and efficient configurations.
         </p>
       </div>
 
       {/* links */}
       <ul className="socials">
         <li>
-          <a href="mailto:umairfaheem.new042@gmail.com">
+          <a href="https://github.com/umaisiqbal">
             <i className="ri-mail-line"></i>
             <span>Gmail</span>
           </a>
         </li>
         <li>
-          <a href="https://github.com/UmairFaheem042">
+          <a href="https://github.com/umaisiqbal">
             <i className="ri-github-line"></i>
             <span>GitHub</span>
           </a>
         </li>
         <li>
-          <a href="https://www.linkedin.com/in/umair-faheem-b48765228/">
+          <a href="https://github.com/umaisiqbal">
             <i className="ri-linkedin-fill"></i>
             <span>LinkedIn</span>
           </a>
         </li>
         <li>
-          <a href="https://www.youtube.com/channel/UCUJlQr3wuGOhR8w7iIMKhGw">
+          <a href="https://github.com/umaisiqbal">
             <i className="ri-youtube-line"></i>
             <span>YouTube</span>
           </a>
